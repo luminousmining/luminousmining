@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luminousmining
+- 👀 I’m interested in mining software GPU
+- I love C/C++
